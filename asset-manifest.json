@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Personal_Portfolio/static/css/main.36a83b12.chunk.css",
+    "main.css": "/Personal_Portfolio/static/css/main.f77ccdc8.chunk.css",
     "main.js": "/Personal_Portfolio/static/js/main.237503bc.chunk.js",
     "main.js.map": "/Personal_Portfolio/static/js/main.237503bc.chunk.js.map",
     "runtime-main.js": "/Personal_Portfolio/static/js/runtime-main.7ba0769b.js",
@@ -8,9 +8,9 @@
     "static/js/2.faf0ad46.chunk.js": "/Personal_Portfolio/static/js/2.faf0ad46.chunk.js",
     "static/js/2.faf0ad46.chunk.js.map": "/Personal_Portfolio/static/js/2.faf0ad46.chunk.js.map",
     "index.html": "/Personal_Portfolio/index.html",
-    "precache-manifest.71c9a196430e082c1a12cac9b74d4115.js": "/Personal_Portfolio/precache-manifest.71c9a196430e082c1a12cac9b74d4115.js",
+    "precache-manifest.1510b406065fcd8288e7533f5f2908d1.js": "/Personal_Portfolio/precache-manifest.1510b406065fcd8288e7533f5f2908d1.js",
     "service-worker.js": "/Personal_Portfolio/service-worker.js",
-    "static/css/main.36a83b12.chunk.css.map": "/Personal_Portfolio/static/css/main.36a83b12.chunk.css.map",
+    "static/css/main.f77ccdc8.chunk.css.map": "/Personal_Portfolio/static/css/main.f77ccdc8.chunk.css.map",
     "static/js/2.faf0ad46.chunk.js.LICENSE.txt": "/Personal_Portfolio/static/js/2.faf0ad46.chunk.js.LICENSE.txt",
     "static/media/Robofriends.webp": "/Personal_Portfolio/static/media/Robofriends.9730fefc.webp",
     "static/media/android-logo.svg": "/Personal_Portfolio/static/media/android-logo.8060a012.svg",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ba0769b.js",
     "static/js/2.faf0ad46.chunk.js",
-    "static/css/main.36a83b12.chunk.css",
+    "static/css/main.f77ccdc8.chunk.css",
     "static/js/main.237503bc.chunk.js"
   ]
 }
