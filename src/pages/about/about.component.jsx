@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about.styles.css";
-import Profile from "../../assets/img/profile/Profile.jpg";
+import Profile from "../../assets/img/profile/prr.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
@@ -26,7 +26,7 @@ const About = () => {
                 <br />
                 Currently I am Pursuing my Final Year of Bachelor's Engineering with specialization in 'Computer Engineering'.
                 <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                Working at KCS IT Global as Full Stack Intern, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                 <br />
                 Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
                 <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.

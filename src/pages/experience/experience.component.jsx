@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import L_ACCENTURE from "../../assets/img/experience/accenture-3.svg";
+import L_ACCENTURE from "../../assets/img/experience/pruthatek2.520191af.png";
 import Tilt from "react-tilt";
 import "./experience.styles.css";
 
@@ -19,26 +19,25 @@ const Experience = () => {
               </Card.Header>
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">Associate Software Engineer</Card.Title>
+                  <Card.Title className="text-center">Frontend Developer</Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong className="body-title-style ">Full Stack Developer</strong>
+                    <strong className="body-title-style ">React JS Intern</strong>
                     <br />
-                    <strong>Technology:</strong> React JS, DOTNET, C#, MS-SQL, Python
+                    <strong>Technology:</strong> React JS, Bootstrap, Node JS, My-SQL
                     <br />
-                    <strong>Duration:</strong> June 2019 - Present
+                    <strong>Duration:</strong> June 2020 - Dec 2020 (6 months)
                     <br/>
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web application.</li>
-                      <li><strong>Developed</strong> automation system to create SQL bulk query scripts that 
-                        increased efficiency by 80% and decreased working hours from 4 hours to 30 mins per task.
+                      <li><strong>Worked</strong> in Live Project: "Lawyer Work Management". 
                       </li>
-                      <li><strong>Provided</strong> application maintenance while working as `Production Support`. 
+                      {/* <li><strong>Provided</strong> application maintenance while working as `Production Support`. 
                       </li>
                       <li><strong>Performed</strong> CRUD operations on multiple databases to load/ remove data according 
-                      to the business requirements.</li>
+                      to the business requirements.</li> */}
                       {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
 
                     </ul>
